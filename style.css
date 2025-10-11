@@ -1,0 +1,50 @@
+.content{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+header{
+    background-color: #d869a0;
+    color: bisque;
+    padding: 20px;
+
+}
+nav{
+    background-color: aqua;
+    padding: 10px;
+}
+
+main{
+    background-color: lightyellow;
+    font-size: 10px;
+    padding:20px;
+
+}
+footer {
+    background-color: aliceblue;
+    color: greenyellow;
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    display: inline-block;
+    width: 96px;
+    text-align: center;
+    color:gray
+}
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightskyblue;
+
+}
+
+p{
+    line-height: 1.6;
+}
+.troll {
+    font-weight: bold;
+    color:greenyellow;
+
+}
